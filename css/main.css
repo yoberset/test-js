@@ -1,0 +1,34 @@
+a, input {
+	outline: none;
+}
+
+.gallery {
+	width: 600px;
+	margin: 20px auto;
+}
+
+.gallery, .gallery ul {
+	overflow: hidden;
+}
+
+.search {
+	width:400px;
+	margin: 20px auto;
+}
+
+.search label {
+	width: 320px;
+	display: inline-block;
+}
+
+.search input {
+	width: 100%;
+	padding: 2px;
+	border: 1px solid #ccc;
+}
+
+.search button {
+	margin-left: 8px;
+}
+
+
